@@ -1,7 +1,14 @@
-# Frontend Mentor - Profile card component
+# Frontend Mentor - Profile card component solution
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+This is a solution to the [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) newbie challenge on [Frontend Mentor](https://www.frontendmentor.io/solutions). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+My solution can be viewed on [https://fementor-profilecardcomponent.vercel.app/](https://fementor-profilecardcomponent.vercel.app/) and on my [Frontend Mentor profile](https://www.frontendmentor.io/profile/GreetVdL).
+
+For this challenge I only built the desktop design.
+
+<!--
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -64,3 +71,4 @@ Feedback is always welcome, so if you have any to give on this challenge please 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+-->
